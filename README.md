@@ -1,2 +1,2 @@
-# Matlab_projects
-There are 3 Matlab mini projects.
+# MATLAB_snippets
+There are 3 diffrent MATLAB mini projects.
